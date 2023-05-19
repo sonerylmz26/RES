@@ -178,7 +178,7 @@ border-radius: 2px;
 
 /* Footer Part End */
 
-
+/* Responsive Part Start  */
 @media screen and (max-width: 900px) {
 
   body{
@@ -290,3 +290,5 @@ margin: 1rem 5rem;
   
 }
 }
+
+/* Responsive Part End */
