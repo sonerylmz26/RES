@@ -22,6 +22,10 @@ Project aims to create a website page.
         |----services.html 		
         |----images (folder)
 ```
+## Gif
+## Expected Outcome
+
+![Project Snapshot](WebSite.gif)
 
 
 ## Objective
