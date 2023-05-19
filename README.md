@@ -22,13 +22,7 @@ Project aims to create a website page.
         |----services.html 		
         |----images (folder)
 ```
-## Expected Outcome
 
-![Project Snapshot]()
-
-![Project Snapshot](WebSite)
-
-![Project Snapshot](Project_3.png)
 
 ## Objective
 
